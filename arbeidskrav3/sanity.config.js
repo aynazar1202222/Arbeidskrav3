@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Arbeidskrav3',
 
-  projectId: 'ewxhse4r',
+  projectId: 'j6hvvg4b',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
